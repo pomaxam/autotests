@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a31e9ac3-680a-4350-a51a-aa12928b1755" name="Changes" comment="2.0" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ZkuQS0Y9BEn4OKS2VowznmtQSU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/rvarf/Desktop/autotests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Example">
+    <configuration name="Example" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Recresin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.getDelayedResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Recresin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="getDelayedResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.getResourceListResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Recresin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="getResourceListResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.getUserList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Recresin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="getUserList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.postSuccessfulRegister" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Recresin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="postSuccessfulRegister" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Example" />
+        <item itemvalue="TestNG.Example.getUserList" />
+        <item itemvalue="TestNG.Example.getDelayedResponse" />
+        <item itemvalue="TestNG.Example.postSuccessfulRegister" />
+        <item itemvalue="TestNG.Example.getResourceListResponse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a31e9ac3-680a-4350-a51a-aa12928b1755" name="Changes" comment="" />
+      <created>1702978381577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702978381577</updated>
+      <workItem from="1702978382588" duration="7516000" />
+      <workItem from="1702997172586" duration="83000" />
+      <workItem from="1703001115510" duration="6195000" />
+      <workItem from="1703008907354" duration="216000" />
+      <workItem from="1703011285960" duration="3189000" />
+      <workItem from="1703015311838" duration="311000" />
+      <workItem from="1703016210422" duration="1716000" />
+      <workItem from="1703017979914" duration="761000" />
+      <workItem from="1703021565770" duration="217000" />
+      <workItem from="1703021872912" duration="1036000" />
+      <workItem from="1703193468448" duration="455000" />
+      <workItem from="1703278273154" duration="4499000" />
+      <workItem from="1703283115416" duration="218000" />
+    </task>
+    <task id="LOCAL-00001" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1702985080117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702985080118</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1703007258724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703007258724</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1703011494566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703011494566</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Здарова👋">
+      <option name="closed" value="true" />
+      <created>1703016426055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703016426055</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2.0">
+      <option name="closed" value="true" />
+      <created>1703193508748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703193508748</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Здарова" />
+    <MESSAGE value="Здарова" />
+    <MESSAGE value="Здарова" />
+    <MESSAGE value="Здарова" />
+    <MESSAGE value="2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.0" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
